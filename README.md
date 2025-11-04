@@ -1,6 +1,6 @@
 # asm-assign
 
-This project demonstrates how to use inline assembly in C programs.
+This project demonstrates the inline assembly in C programs.
 
 ## Setup
 
